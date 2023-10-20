@@ -1,6 +1,6 @@
 # [Rinha de Front-end](https://codante.io/rinha-frontend)
 
-❤️‍🔥 Solução do desafio da Rinha de Frontend 2023
+❤️‍🔥 Rinha de Frontend 2023
 
 ## 🧐 Stack?
 

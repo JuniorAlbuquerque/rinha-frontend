@@ -2,6 +2,10 @@
 
 ❤️‍🔥 Rinha de Frontend 2023
 
+Developed by: Júnior Albuquerque
+- [Linkedin](https://www.linkedin.com/in/junior-albuquerque/)
+- [Github](https://github.com/JuniorAlbuquerque)
+
 ## 🧐 Stack?
 
 - [Solidjs](https://www.solidjs.com/) for building user interface.

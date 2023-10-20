@@ -13,7 +13,7 @@ export const LoadFile: FlowComponent<LoadFileProps> = (props) => {
     <button
       onClick={handleClick}
       disabled={props?.disabled}
-      aria-label="LOAD-FILE"
+      aria-label="Load Json File"
       class={clsx(
         "bg-slate-100 border-gray-500 border-[0.1rem] w-fit px-4 py-1 text-background-100 rounded-lg",
         "hover:scale-[1.02] transition-all duration-200 hover:bg-slate-200",
